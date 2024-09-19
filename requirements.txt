@@ -1,0 +1,10 @@
+requests
+flask
+gunicorn
+awscli
+
+numpy
+scipy
+scikit-learn
+joblib
+pandas
